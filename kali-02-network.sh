@@ -6,7 +6,7 @@ echo -e "#The primary network interface \n \
 echo -e "#The secondary network interface \n \
 		auto eth1 \n \
 		iface eth1 inet static \n \
-		address 192.168.1.101 \n \
+		address 192.168.1.102 \n \
 		netmask 255.255.255.0 \n \
 		network 192.168.1.0 \n \
 		broadcast 192.168.1.255 \n \
